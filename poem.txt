@@ -1,8 +1,10 @@
+The rainbow and unicorn
 purple
 pink 
 orange
 red
 green
+unicorn
 yellow
 white
- These are the colors name
+ These are the colors of rainbow and unicorn
