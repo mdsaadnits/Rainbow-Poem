@@ -1,0 +1,7 @@
+purple
+pink 
+orange
+red
+green
+ 
+ These are the colors name
