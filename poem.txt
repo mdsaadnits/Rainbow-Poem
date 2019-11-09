@@ -4,4 +4,5 @@ orange
 red
 green
 yellow
+white
  These are the colors name
